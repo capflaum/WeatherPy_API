@@ -1,13 +1,22 @@
-What's the Weather Like?
+**WeatherPy**
+A Python script is used to visualize the weather of 500+ cities across the world of varying distance from the equator. Using a simple Python library and the OpenWeatherMap API,  a representative model of weather across world cities is created with a series of scatter plots.
 
-WeatherPy
-In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
-Your first requirement is to create a series of scatter plots to showcase the following relationships:
+The following relationships are analyzed:
 
-Temperature (F) vs. Latitude
-Humidity (%) vs. Latitude
-Cloudiness (%) vs. Latitude
-Wind Speed (mph) vs. Latitude
+**Temperature (F) vs. Latitude**
+Northern Hemisphere
+![image](https://user-images.githubusercontent.com/69134400/119249895-3f14b980-bb51-11eb-9b77-fb8a8bd8907a.png)
+Southern Hemisphere
+![image](https://user-images.githubusercontent.com/69134400/119249901-4a67e500-bb51-11eb-8fee-7787752f96e5.png)
+
+**Humidity (%) vs. Latitude**
+
+**Cloudiness (%) vs. Latitude**
+
+**Wind Speed (mph) vs. Latitude**
+
+
+
 
 After each plot add a sentence or too explaining what the code is and analyzing.
 Your second requirement is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
