@@ -1,4 +1,5 @@
 **WeatherPy**
+
 A Python script is used to visualize the weather of 500+ cities across the world of varying distance from the equator. Using a simple Python library and the OpenWeatherMap API,  a representative model of weather across world cities is created with a series of scatter plots.
 
 The following relationships are analyzed:
@@ -6,9 +7,11 @@ The following relationships are analyzed:
 **Temperature (F) vs. Latitude**
 
 Northern Hemisphere
+
 ![image](https://user-images.githubusercontent.com/69134400/119249895-3f14b980-bb51-11eb-9b77-fb8a8bd8907a.png)
 
 Southern Hemisphere
+
 ![image](https://user-images.githubusercontent.com/69134400/119249901-4a67e500-bb51-11eb-8fee-7787752f96e5.png)
 
 **Humidity (%) vs. Latitude**
