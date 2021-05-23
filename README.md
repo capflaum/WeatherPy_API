@@ -26,6 +26,8 @@ Southern Hemisphere
 
 
 
+
+
 **VacationPy**
 
 This script further explores the OpenWeatherMap API by displaying weather data that matches the parameters for an ideal vacation. 
@@ -38,8 +40,3 @@ Humidity Heatmap:
 Ideal Hotel Locations:
 
 ![image](https://user-images.githubusercontent.com/69134400/119251301-d5011200-bb5a-11eb-89bd-29a7bb877f7c.png)
-
-
-
-
-
