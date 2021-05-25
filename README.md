@@ -1,4 +1,4 @@
-**WeatherPy**
+## WeatherPy
 
 A Python script is used to visualize the weather of 500+ cities across the world of varying distance from the equator. Using a simple Python library and the OpenWeatherMap API,  a representative model of weather across world cities is created with a series of scatter plots.
 
@@ -28,7 +28,7 @@ Southern Hemisphere
 
 
 
-**VacationPy**
+## VacationPy
 
 This script further explores the OpenWeatherMap API by displaying weather data that matches the parameters for an ideal vacation. 
 
